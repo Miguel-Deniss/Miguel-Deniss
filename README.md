@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Miguel e sou estudante de programação🖥️</h2>
+<h3 align="left">Olá! Meu nome é Miguel, estudo programação em casa, de forma totalmente digital, explorando linguagens, ferramentas e projetos por conta própria. Ainda não ingressei em uma faculdade, mas sigo desenvolvendo minhas habilidades de maneira autodidata, com dedicação e paixão por tecnologia.💻</h3>
 
 ###
 
@@ -15,9 +15,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
@@ -47,8 +49,16 @@
 
 ###
 
-<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miguel-Deniss/Miguel-Deniss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miguel-Deniss/Miguel-Deniss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Miguel-Deniss/Miguel-Deniss/output/pacman-contribution-graph.svg">
+</picture>
 
-<img src="https://raw.githubusercontent.com/Miguel-Deniss/Miguel-Deniss/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Miguel-Deniss.Miguel-Deniss&"  />
+</div>
 
 ###
