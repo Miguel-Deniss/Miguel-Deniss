@@ -59,6 +59,6 @@
 
 ###
 
-![snake gif](https://github.com/Miguel-Deniss/Miguel-Deniss/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Miguel-Deniss/Miguel-Deniss/blob/output/github-contribution-grid-snake.svg)
 
-###
+![Snake animation dark](https://github.com/Miguel-Deniss/Miguel-Deniss/blob/output/github-contribution-grid-snake-dark.svg)
