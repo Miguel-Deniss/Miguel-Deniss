@@ -58,3 +58,7 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/Miguel-Deniss/Miguel-Deniss/blob/output/github-contribution-grid-snake-dark.svg)
+
+###
