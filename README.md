@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Miguel, estudo programação em casa, de forma totalmente digital, explorando linguagens, ferramentas e projetos por conta própria. Ainda não ingressei em uma faculdade, mas sigo desenvolvendo minhas habilidades.💻</h2>
+<h2 align="left">Olá! Meu nome é Miguel, estudo programação em casa e no curso tecnico do senai, de forma totalmente digital, explorando linguagens, ferramentas e projetos por conta própria. Ainda não ingressei em uma faculdade, mas sigo desenvolvendo minhas habilidades.💻</h2>
 
 ###
 
